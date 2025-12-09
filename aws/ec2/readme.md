@@ -3,6 +3,7 @@
 
 EC2 (Elastic Compute Cloud) = AWS virtual computer                                  
 You can run websites, apps, scripts, servers.
+<img width="800" height="649" alt="image" src="https://github.com/user-attachments/assets/a0780476-1fb1-465c-9d8c-406183217934" />
 
 
 Elastic = you can increase/decrease size anytime.
